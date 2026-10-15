@@ -1,3 +1,5 @@
+![memoryloom](.github/preview.png)
+
 # memoryloom
 
 Local transcript indexing and literal search for agent memory.
